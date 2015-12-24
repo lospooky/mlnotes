@@ -1,2 +1,2 @@
 # mlnotes
-Machine Learning Notes
+A lot of ML notes
