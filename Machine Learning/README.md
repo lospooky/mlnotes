@@ -1,4 +1,5 @@
 #Machine Learning
+
 Here we are, Machine Learning at Last!
 These were mainly taken while going through [Machine Learning, A Probabilistic Perspective](https://www.cs.ubc.ca/~murphyk/MLbook/) by Kevin Murphy, so they follow the same general order and organization as the book chapters. Here and there some integrations were made from material taken from [Machine Learning, an Algorithmic Perspective](https://seat.massey.ac.nz/personal/s.r.marsland/MLBook.html) by Stephen Marsland. 
 

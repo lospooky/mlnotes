@@ -1,7 +1,7 @@
 #Probability & Statistics
-Of course, before diving into Machine Learning proper, you should have solid grasp of Probability Theory and standard Statistical Methods. Otherwise you won't really be able to properly understand what's next.
+Before diving into Machine Learning proper, here's some notes about Probability Theory and standard Statistical Methods. If you really want to understand and grasp what any Machine Learning algorithm or model actually does, this is is the place to start,
 
-These notes were put together from a variety of lecture notes from my university courses as well as from [*Probability and Statistics for Engineering and the Sciences, Jay L Devore*](https://www.amazon.com/Probability-Statistics-Engineering-Sciences-Devore/dp/1305251806/ref=pd_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=EP8JTJJ65F7WP5D4KVZX)
+These notes were put together from a variety of lecture notes from my university courses as well as from [*Probability and Statistics for Engineering and the Sciences](https://www.amazon.com/Probability-Statistics-Engineering-Sciences-Devore/dp/1305251806/ref=pd_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=EP8JTJJ65F7WP5D4KVZX) by Jay L. Devore
 
 1. Fundamentals and Distribution Reference
 2. Random Variable Properties and Central Limit Theorem
