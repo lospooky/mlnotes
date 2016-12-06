@@ -2,21 +2,21 @@
 
 Deep Learning, the final frontier... Since 2012 these techniques have had a tremendous impact across all sorts of problems and applications and effectively revolutionized the whole discipline of Machine Learning. 
 
-While countless papers are constantly being published, the only proper textbook currently available is [Deep Learning](http://www.deeplearningbook.org/) by GoodFellow, Bengio, and Courville. I took these notes during the summer of 2015, when they were still finishing the book so they might not reflect the final version; particularly regarding Part 3 of the book.
+While countless papers are constantly being published, the only proper textbook currently available is [*Deep Learning*](http://www.deeplearningbook.org/) by GoodFellow, Bengio, and Courville. I took these notes during the summer of 2015, when they were still finishing the book so they might not reflect the final version; particularly regarding Part 3 of the book.
 
-1. Introduction
-2. Feedforward Deep Networks
-3. Regularization
-4. Optimization
-5. Convolutional Networks
-6. Recurrent Networks
-7. Graphical Models
-8. Autoencoders
-9. Representation Learning
-10. Manifolds
-11. Partition Function
-12. Approximate Inference
-13. Deep Generative Models
+1. [Introduction](1 - Intro.pdf)
+2. [Feedforward Deep Networks](2 - Feedforward Deep Networks.pdf)
+3. [Regularization](3 - Regularization.pdf)
+4. [Optimization](4 - Optimization.pdf)
+5. [Convolutional Networks](5 - Convolutional Networks.pdf)
+6. [Recurrent Networks](6 - Recurrent Networks.pdf)
+7. [Graphical Models](7 - Graphical Models.pdf)
+8. [Autoencoders](8 - Autoencoders.pdf)
+9. [Representation Learning](9 - Representation Learning.pdf)
+10. [Manifolds](10 - Manifolds.pdf)
+11. [Partition Function](11 - Partition Function.pdf)
+12. [Approximate Inference](12 - Approximate Inference.pdf)
+13. [Deep Generative Models](3 - Deep Generative Models.pdf)
 
 As someone who's got the luck of working on Deep Learning on a daily basis I have a final word of advice... If you managed this far and were able to understand all of the material, Congratulations! You're now just barely able to understand what's out there and how it works... 
 
